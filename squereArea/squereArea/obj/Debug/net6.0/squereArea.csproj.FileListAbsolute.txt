@@ -1,0 +1,15 @@
+D:\C#\squereArea\squereArea\bin\Debug\net6.0\squereArea.exe
+D:\C#\squereArea\squereArea\bin\Debug\net6.0\squereArea.deps.json
+D:\C#\squereArea\squereArea\bin\Debug\net6.0\squereArea.runtimeconfig.json
+D:\C#\squereArea\squereArea\bin\Debug\net6.0\squereArea.dll
+D:\C#\squereArea\squereArea\bin\Debug\net6.0\squereArea.pdb
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.csproj.AssemblyReference.cache
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.AssemblyInfoInputs.cache
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.AssemblyInfo.cs
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.csproj.CoreCompileInputs.cache
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.dll
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\refint\squereArea.dll
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.pdb
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\squereArea.genruntimeconfig.cache
+D:\C#\squereArea\squereArea\obj\Debug\net6.0\ref\squereArea.dll
