@@ -1,0 +1,15 @@
+D:\C#\switchSentence\switchSentence\bin\Debug\net6.0\switchSentence.exe
+D:\C#\switchSentence\switchSentence\bin\Debug\net6.0\switchSentence.deps.json
+D:\C#\switchSentence\switchSentence\bin\Debug\net6.0\switchSentence.runtimeconfig.json
+D:\C#\switchSentence\switchSentence\bin\Debug\net6.0\switchSentence.dll
+D:\C#\switchSentence\switchSentence\bin\Debug\net6.0\switchSentence.pdb
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.csproj.AssemblyReference.cache
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.AssemblyInfoInputs.cache
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.AssemblyInfo.cs
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.csproj.CoreCompileInputs.cache
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.dll
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\refint\switchSentence.dll
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.pdb
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\switchSentence.genruntimeconfig.cache
+D:\C#\switchSentence\switchSentence\obj\Debug\net6.0\ref\switchSentence.dll

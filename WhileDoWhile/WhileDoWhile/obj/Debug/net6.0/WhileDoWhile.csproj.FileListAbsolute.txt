@@ -1,0 +1,15 @@
+D:\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.exe
+D:\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.deps.json
+D:\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.runtimeconfig.json
+D:\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.dll
+D:\C#\WhileDoWhile\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.pdb
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.csproj.AssemblyReference.cache
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.AssemblyInfoInputs.cache
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.AssemblyInfo.cs
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.dll
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\refint\WhileDoWhile.dll
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.pdb
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.genruntimeconfig.cache
+D:\C#\WhileDoWhile\WhileDoWhile\obj\Debug\net6.0\ref\WhileDoWhile.dll

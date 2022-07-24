@@ -1,0 +1,15 @@
+D:\C#\forCycle\forCycle\bin\Debug\net6.0\forCycle.exe
+D:\C#\forCycle\forCycle\bin\Debug\net6.0\forCycle.deps.json
+D:\C#\forCycle\forCycle\bin\Debug\net6.0\forCycle.runtimeconfig.json
+D:\C#\forCycle\forCycle\bin\Debug\net6.0\forCycle.dll
+D:\C#\forCycle\forCycle\bin\Debug\net6.0\forCycle.pdb
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.csproj.AssemblyReference.cache
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.AssemblyInfoInputs.cache
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.AssemblyInfo.cs
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.csproj.CoreCompileInputs.cache
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.dll
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\refint\forCycle.dll
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.pdb
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\forCycle.genruntimeconfig.cache
+D:\C#\forCycle\forCycle\obj\Debug\net6.0\ref\forCycle.dll
