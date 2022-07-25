@@ -1,0 +1,15 @@
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\bin\Debug\net6.0\restauran10TablesReservationSystem.exe
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\bin\Debug\net6.0\restauran10TablesReservationSystem.deps.json
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\bin\Debug\net6.0\restauran10TablesReservationSystem.runtimeconfig.json
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\bin\Debug\net6.0\restauran10TablesReservationSystem.dll
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\bin\Debug\net6.0\restauran10TablesReservationSystem.pdb
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.csproj.AssemblyReference.cache
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.AssemblyInfoInputs.cache
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.AssemblyInfo.cs
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.csproj.CoreCompileInputs.cache
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.dll
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\refint\restauran10TablesReservationSystem.dll
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.pdb
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\restauran10TablesReservationSystem.genruntimeconfig.cache
+D:\C#\restauran10TablesReservationSystem\restauran10TablesReservationSystem\obj\Debug\net6.0\ref\restauran10TablesReservationSystem.dll
